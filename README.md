@@ -29,4 +29,4 @@
 * tkinter
 * datetime
 
-Работу выполняли: [Балашова Мария](https://github.com/BalashovaMaria)
+Работу выполняла: [Балашова Мария](https://github.com/BalashovaMaria)
