@@ -18,7 +18,8 @@
 * скайчайте файлы **interface** и **backend** в одну папку
 * установите перечисленные ниже модули
 * запустите код (расширение .py)
->[final](https://github.com/BalashovaMaria/calendar/tree/main/final)
+>[backend](https://github.com/BalashovaMaria/3sem/blob/main/backend.py)
+>[interface](https://github.com/BalashovaMaria/3sem/blob/main/interface.py)
 ***
 Использованные модули:
 * os
