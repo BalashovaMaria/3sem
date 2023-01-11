@@ -24,9 +24,8 @@
 >[interface](https://github.com/BalashovaMaria/3sem/blob/main/interface.py)
 ***
 Использованные модули:
-* os
-* sqlite3
-* tkinter
-* datetime
+* pandas
+* matplotlib
+* customtkinter
 
 Работу выполняла: [Балашова Мария](https://github.com/BalashovaMaria)
