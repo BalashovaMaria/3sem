@@ -27,5 +27,6 @@
 * pandas
 * matplotlib
 * customtkinter
+* tkinter
 
 Работу выполняла: [Балашова Мария](https://github.com/BalashovaMaria)
