@@ -1,12 +1,4 @@
 
-import pip
-
-pip install numpy
-pip install -U scikit-learn scipy matplotlib
-pip install numpy
-pip install pandas
-pip install customtkinter
-
 import numpy as np
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
