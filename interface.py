@@ -97,7 +97,7 @@ class App(customtkinter.CTk):
 
 
     def sidebar_button_event(self):
-        tkinter.Tk().withdraw()  # prevents an empty tkinter window from appearing
+        tkinter.Tk().withdraw()  
         csv_path = filedialog.askopenfilename()
         self.analizator = Analyzer(csv_path)
 
